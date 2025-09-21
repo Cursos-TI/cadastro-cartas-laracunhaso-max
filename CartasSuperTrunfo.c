@@ -90,7 +90,7 @@ float areakm2, pib2;
       printf("PIB: %.2f milhões de reais \n", pib2);
       printf("Número de Pontos Turísticos: %d \n", pontostur2);
 
-printf("Tudo pronto para você começar a jogar!")
+printf("Tudo pronto para você começar a jogar!");
     
 return 0;
 } 
